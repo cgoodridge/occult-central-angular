@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+
+body
+{
+     background-color: #050f1f;
+}
+h1 
+{
+    font-family: 'Montserrat', sans-serif;
+    color: #ff6f00;
+}
+
+p
+{
+    font-family: 'Raleway Light', sans-serif;
+    color: white;
+}
